@@ -18,3 +18,5 @@ cache_control="no-cache"
 method="POST"
 
 pic_loc=r"F:/bonePic/"
+
+image_dir_path=r"F:/bone_processed/"
